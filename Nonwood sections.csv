@@ -1,0 +1,107 @@
+biomass,section,count,Section
+cotton,Filter paper,8,Filter Paper
+cotton,Batting,3,Batting
+cotton,Balls/Wool,3,Balls/Wool
+cotton,Pulp,7,Pulp
+cotton,Fabric,4,Fabric
+cotton,Fibre/Linter,63,Fibre/Linter
+cotton,Cotton,34,Cotton
+cotton,Waste fibres,1,Waste Fibres
+cotton,Powder,1,Powder
+cotton,stalk,3,Stalk
+cotton,stalk bark,2,Stalk Bark
+cotton,sliver,1,Sliver
+cotton,boll,1,Boll
+bamboo,Leaf,2,Leaf
+bamboo,Chips,2,Chips
+bamboo,Pulp,32,Pulp
+bamboo,Culm,10,Culm
+bamboo,Bamboo,13,Bamboo
+bamboo,Fibre,13,Fibre
+bamboo,Powder,10,Powder
+bamboo,Log,1,Log
+bamboo,Residue,4,Residue
+bamboo,Shoot,1,Shoot
+sugarcane,Bagasse,36,Bagasse
+sugarcane,Pulp,4,Pulp
+sugarcane,Pulp (BL),11,Pulp (Bleached)
+sugarcane,Fibre,1,Fibre
+rice,Straw,43,Straw
+rice,Hull,1,Hull
+rice,Husk,4,Husk
+rice,Stem,1,Stem
+algae,Cladophora,38,Cladophora
+algae,Brown algae,2,Brown Algae
+algae,Aegagropila linnaei,1,Aegagropila Linnaei
+algae,Chaetomorpha antennina,1,Chaetomorpha Antennina
+algae,Gelidium,2,Gelidium
+palm tree,Frond,5,Frond
+palm tree,Empty fruit bunch,29,Empty Fruit Bunch
+palm tree,Date rachis,12,Date Rachis
+palm tree,Peach palm,1,Peach Palm
+palm tree,mesocarp,4,Mesocarp
+palm tree,sheath,2,Sheath
+palm tree,trunk,3,Trunk
+palm tree,shell,1,Shell
+palm tree,Husk,2,Husk
+wheat,Straw,39,Straw
+wheat,Fibre,2,Fibre
+wheat,Bran,1,Bran
+wheat,Waste,1,Waste
+banana,Peel,11,Peel
+banana,Bract,1,Bract
+banana,Leaf,2,Leaf
+banana,Waste,1,Waste
+banana,Pseudostem,11,Pseudostem
+banana,Fiber,6,Fiber
+banana,Petiole,1,Petiole
+banana,Rachis,7,Rachis
+jute,Fiber,28,Fiber
+jute,Sackcloth,1,Sackcloth
+jute,Stem,1,Stem
+jute,Waste,3,Waste
+jute,Felts,2,Felts
+kenaf,Fiber,5,Fiber
+kenaf,Leaves,1,Leaves
+kenaf,Core,4,Core
+kenaf,Stem,1,Stem
+kenaf,Retted straw,4,Retted Straw
+kenaf,Bast,18,Bast
+sisal,Fiber,20,Fiber
+sisal,Pulp,6,Pulp
+sisal,Leaves,1,Leaves
+maize,Straw,2,Straw
+maize,Stalk,10,Stalk
+maize,Stover,2,Stover
+maize,Leaf,1,Leaf
+maize,Cob,5,Cob
+maize,Husk,7,Husk
+hemp,Fiber,10,Fiber
+hemp,Retted fiber,1,Retted Fiber
+hemp,Stub,1,Stub
+hemp,Rachis,1,Rachis
+hemp,Shives,3,Shives
+hemp,Sack cloth,0,Sack Cloth
+hemp,Yarn,1,Yarn
+hemp,Stem,1,Stem
+hemp,Straw,3,Straw
+hemp,Bast,3,Bast
+flax,Fiber,6,Fiber
+flax,Roving,4,Roving
+flax,Yarn,1,Yarn
+flax,Stem,1,Stem
+flax,Straw,3,Straw
+flax,Retted straw,1,Retted Straw
+flax,Flax,3,Flax
+pineapple,Leaf,13,Leaf
+pineapple,Peel,1,Peel
+oat,Straw,9,Straw
+oat,Hull,3,Hull
+oat,Husk,1,Husk
+spinifex,Leaf,13,Leaf
+soybean,Pods,1,Pods
+soybean,Straw,2,Straw
+soybean,Hull,4,Hull
+soybean,Stalk,1,Stalk
+soybean,Stock,1,Stock
+soybean,Okara,1,Okara
